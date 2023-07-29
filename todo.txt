@@ -1,1 +1,2 @@
 # figure out oldschool wiki API
+# setup basic server
